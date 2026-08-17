@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+  <addon id="plugin.video.fenlight" version="2.2.14">
+    <info>resources/lib/fenlight.py</info>
+  </addon>
+  <addon id="plugin.video.torrserver-fallback" version="1.0">
+    <info>resources/lib/main.py</info>
+  </addon>
+  <addon id="script.module.requests" version="1.0">
+    <info>.</info>
+  </addon>
+</addons>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.module.requests" version="2.31.0" name="requests" provider-name="Kenneth Reitz">
+  <requires><import addon="xbmc.python" version="3.0.0"/></requires>
+  <extension point="xbmc.python.module" library="."/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Python HTTP for Kodi</summary>
+    <description>Human-friendly HTTP library for Python</description>
+    <platform>all</platform>
+  </extension>
+</addon>

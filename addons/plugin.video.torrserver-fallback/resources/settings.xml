@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <!-- Server -->
+  <setting id="d0_host" label="VPS Host" type="text" default="159.65.10.49" />
+  <setting id="jackett_api" label="Jackett API Key" type="text" default="ki02caoepc5t3je63dy8qm0zb6lad3g1" />
+  <!-- TorrServer -->
+  <setting id="ts_user" label="TorrServer Username" type="text" default="" />
+  <setting id="ts_pass" label="TorrServer Password" type="text" default="" option="hidden" />
+  <setting id="ts_port" label="TorrServer Port" type="number" default="8092" />
+  <!-- qBittorrent -->
+  <setting id="qb_url" label="qB Host" type="text" default="http://127.0.0.1:9090" />
+  <setting id="qb_user" label="qB Username" type="text" default="admin" />
+  <setting id="qb_pass" label="qB Password" type="text" default="adminadmin" option="hidden" />
+  <!-- Detection -->
+  <setting id="detection_delay" label="Detection Delay (s)" type="number" default="3" />
+  <setting id="popup_timeout" label="Popup Timeout (s)" type="number" default="20" />
+  <setting id="stream_timeout" label="Stream Timeout (s)" type="number" default="30" />
+  <!-- Library -->
+  <setting id="library_path" label="Library Path" type="text" default="/mnt/media/completed" />
+  <setting id="gdrive_library" label="Enable GDrive Library" type="bool" default="false" />
+</settings>
