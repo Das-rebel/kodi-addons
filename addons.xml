@@ -2,11 +2,12 @@
 <addons>
   <addon id="plugin.video.fenlight" version="2.2.14">
     <info>resources/lib/fenlight.py</info>
+    <checksum>69af074462e10339183700eb0d80a4c9</checksum>
+    <datadir zip="true">https://cdn.jsdelivr.net/gh/Das-rebel/kodi-addons@main/zips/plugin.video.fenlight/plugin.video.fenlight-2.2.14.zip</datadir>
   </addon>
   <addon id="plugin.video.torrserver-fallback" version="1.0">
     <info>resources/lib/main.py</info>
-  </addon>
-  <addon id="script.module.requests" version="1.0">
-    <info>.</info>
+    <checksum>c2710f72589f9b1d4ce55f9c1095f254</checksum>
+    <datadir zip="true">https://cdn.jsdelivr.net/gh/Das-rebel/kodi-addons@main/zips/plugin.video.torrserver-fallback/plugin.video.torrserver-fallback-2.6.0.zip</datadir>
   </addon>
 </addons>
